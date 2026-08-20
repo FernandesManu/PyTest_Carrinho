@@ -1,4 +1,4 @@
-from carrinho import Produto, CarrinhoDeCompras
+from modules.carrinho import Produto, CarrinhoDeCompras
 import pytest
 
 @pytest.fixture
