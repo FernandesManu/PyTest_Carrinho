@@ -1,6 +1,8 @@
 # PyTest Shopping Cart
 
-[🇧🇷](README.md) [🇺🇸](README.en.md)
+Escolha o idioma do README:
+
+[<img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f1fa-1f1f8.svg" alt="United States" width="24" height="24">](README.en.md) [<img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f1e7-1f1f7.svg" alt="Brazil" width="24" height="24">](README.md)
 
 Educational Python project for practicing automated tests with `pytest` in a simple shopping flow.
 
