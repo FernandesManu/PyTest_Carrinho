@@ -1,6 +1,6 @@
 # PyTest Carrinho
 
-[🇧🇷](README.md) [🇺🇸](README.en.md)
+[🇧🇷 Português](README.md) [🇺🇸 English](README.en.md)
 
 Projeto didático em Python para praticar testes automatizados com `pytest` em um fluxo simples de compras.
 

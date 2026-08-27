@@ -1,6 +1,6 @@
 # PyTest Shopping Cart
 
-[🇧🇷](README.md) [🇺🇸](README.en.md)
+[🇧🇷 Português](README.md) [🇺🇸 English](README.en.md)
 
 Educational Python project for practicing automated tests with `pytest` in a simple shopping flow.
 
